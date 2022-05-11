@@ -28,7 +28,7 @@
   "list_ads": [
       "ADMOB"
   ],
-  "force_redirect": true,
+  "force_redirect": false,
   "redirect_title": "App Crash",
   "redirect_desc": "Test Deskripsi",
   "package_name_redirect": "com.ashabuldev.jiminpuzzlejigsaw"
